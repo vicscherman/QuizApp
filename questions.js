@@ -1,17 +1,17 @@
 var questions = [{
-    "question": "The first mechanical computer designed by Charles Babbage was called?",
-    "option1": "Abacus",
-    "option2": "Analytical Engine",
-    "option3": "Calculator",
-    "option4": "Processor",
-    "answer": "2"
+    "question": "What am I doing this weekend?",
+    "option1": "Chilling",
+    "option2": "Thrilling",
+    "option3": "Spilling",
+    "option4": "Wiring up a bass preamp",
+    "answer": "4"
 
 },{
-    "question": "What's the strongest computer?",
-    "option1": "Super",
-    "option2": "Nano",
-    "option3": "Megar",
-    "option4": "Right answer",
+    "question": "What type of computer do i use?",
+    "option1": "Windowsr",
+    "option2": "Custom",
+    "option3": "Colecovisionr",
+    "option4": "Mac",
     "answer": "4"
 
 },{
